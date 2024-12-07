@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Buffer" Collapsed="true">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAFAAAAAAAIAAAAAAAAAAAAAAAAAAAABAQAA=</HashCode>
+      <FileName>Buffer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Consumer" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAQAAAAAAAAAIAAAAAAAAAAAACAAgAAAA=</HashCode>
+      <FileName>Consumer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EventCalendar">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABCAABAAAAAQABAAIAAAAIAAAAYAAAQA=</HashCode>
+      <FileName>EventCalendar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Producer" Collapsed="true">
+    <Position X="1.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAIABAAQAAAAAAAAAAAAAISAAAAAAAAAAABABA=</HashCode>
+      <FileName>Producer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductionManager" Collapsed="true">
+    <Position X="3.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAIAQAABAAAAAAAg=</HashCode>
+      <FileName>ProductionManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Request">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAIAACAAAARAAAAAAEACAAAwAAAAgAAAAAAIAA=</HashCode>
+      <FileName>Request.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectionManager" Collapsed="true">
+    <Position X="7.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIBAAAAAAAAIAAAAAAAAAQAAAAAAAAIAAABAAAAAAAA=</HashCode>
+      <FileName>SelectionManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpecialEvent">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAQAAAAAAQAAAAAAABAAAAAAAAAACAAAA=</HashCode>
+      <FileName>SpecialEvent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
